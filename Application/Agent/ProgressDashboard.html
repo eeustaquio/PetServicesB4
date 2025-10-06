@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pet Services Progress Dashboard</title>
+  <style>
+    body { font-family: 'Segoe UI', Arial, sans-serif; background: #f8fafc; color: #222; margin: 0; padding: 0; }
+    .container { max-width: 900px; margin: 2rem auto; background: #fff; border-radius: 12px; box-shadow: 0 2px 8px #0001; padding: 2rem; }
+    h1 { text-align: center; color: #2d6cdf; }
+    .summary { display: flex; justify-content: space-around; margin-bottom: 2rem; }
+    .summary div { background: #e7f0fd; border-radius: 8px; padding: 1rem 2rem; text-align: center; min-width: 120px; }
+    .progress-bar-bg { background: #e5e7eb; border-radius: 8px; height: 24px; width: 100%; margin: 0.5rem 0; }
+    .progress-bar { background: #2d6cdf; height: 100%; border-radius: 8px; transition: width 0.5s; }
+    table { width: 100%; border-collapse: collapse; margin: 2rem 0; }
+    th, td { padding: 0.75rem; border-bottom: 1px solid #e5e7eb; text-align: center; }
+    th { background: #f1f5fb; }
+    .feature-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; }
+    .feature { background: #f6fafd; border-radius: 8px; padding: 1rem; text-align: center; }
+    .footer { text-align: right; color: #888; font-size: 0.95em; margin-top: 2rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Pet Services Progress Dashboard</h1>
+    <div class="summary">
+      <div><strong>Total Tasks</strong><br>157</div>
+      <div><strong>Completed</strong><br>0</div>
+      <div><strong>In Progress</strong><br>0</div>
+      <div><strong>Not Started</strong><br>157</div>
+      <div><strong>Completion Rate</strong><br>0%</div>
+    </div>
+    <h2>Progress by Phase</h2>
+    <table>
+      <tr><th>Phase</th><th>Total</th><th>Completed</th><th>In Progress</th><th>Not Started</th><th>Completion %</th></tr>
+      <tr><td>Project Foundation</td><td>21</td><td>0</td><td>0</td><td>21</td><td>0%</td></tr>
+      <tr><td>Core Features</td><td>43</td><td>0</td><td>0</td><td>43</td><td>0%</td></tr>
+      <tr><td>Advanced Features</td><td>36</td><td>0</td><td>0</td><td>36</td><td>0%</td></tr>
+      <tr><td>Quality & Perf.</td><td>29</td><td>0</td><td>0</td><td>29</td><td>0%</td></tr>
+      <tr><td>Deployment/Launch</td><td>28</td><td>0</td><td>0</td><td>28</td><td>0%</td></tr>
+    </table>
+    <h2>Feature Area Progress</h2>
+    <div class="feature-list">
+      <div class="feature"><strong>Authentication & User Management</strong><br>0%</div>
+      <div class="feature"><strong>Profile Management</strong><br>0%</div>
+      <div class="feature"><strong>Service Catalog</strong><br>0%</div>
+      <div class="feature"><strong>Booking System</strong><br>0%</div>
+      <div class="feature"><strong>Pet Management</strong><br>0%</div>
+      <div class="feature"><strong>Payment & Transactions</strong><br>0%</div>
+      <div class="feature"><strong>Notifications</strong><br>0%</div>
+      <div class="feature"><strong>AI Chat Support</strong><br>0%</div>
+      <div class="feature"><strong>Admin Dashboard</strong><br>0%</div>
+      <div class="feature"><strong>Testing & Security</strong><br>0%</div>
+      <div class="feature"><strong>Accessibility & Mobile</strong><br>0%</div>
+      <div class="feature"><strong>Deployment & Launch</strong><br>0%</div>
+    </div>
+    <div class="footer">Last updated: October 6, 2025</div>
+  </div>
+</body>
+</html>

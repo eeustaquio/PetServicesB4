@@ -1,0 +1,28 @@
+
+
+
+Gather Requirements
+    - Review SolutionPlanAndFeatures.md 
+    - Run AgentPrompt\UpdateFeaturesFromSolutionPlan
+    - (Create Review Prompt for summary and validations) 
+
+    - add feature to Include Themes ( Glass Calm Minimalism ) with Light and Dark user option
+    -   ***List generic features for general apps 
+Design Solution
+    - Review all documentations
+    - Plan and breakdown modules
+    - Generate Phases and implementation list
+
+Implement Solution
+     - Agen Prompt Review _Product Doc and and build solution in Test Solution Folder
+
+Test Solution
+Review Solution
+Deploy Solution
+Document Solution
+Review Documentation
+Maintain Solution
+Archive Solution
+Update Documentation
+Evaluate Solution
+Monitor Solution

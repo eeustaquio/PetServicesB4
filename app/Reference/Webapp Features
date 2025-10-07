@@ -1,0 +1,24 @@
+User authentication (login, registration, password reset)
+User profile management
+Role-based access control (admin, user, guest, etc.)
+Responsive design (mobile/tablet/desktop support)
+Dashboard or landing page
+Navigation menu and routing
+CRUD operations (Create, Read, Update, Delete) for main entities
+Search and filtering
+Notifications (email, SMS, in-app)
+File upload and management
+Settings/preferences management
+Theming (light/dark mode)
+Error handling and user-friendly error pages
+Data validation and input sanitization
+Security features (encryption, CSRF/XSS protection)
+Logging and audit trails
+Analytics and reporting
+API integration (third-party services)
+Help/support/contact form
+Localization and multi-language support
+Accessibility compliance (WCAG)
+Session management and timeout
+Feedback and rating system
+Terms of service and privacy policy pages

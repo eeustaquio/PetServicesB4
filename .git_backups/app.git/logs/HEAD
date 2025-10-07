@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 7fae7af7507b8b08ec2bb1e83853a9c4125df2a8 Elzar <elzar@ymail.com> 1759734668 +0800	commit (initial): Initial commit from Create Next App
+7fae7af7507b8b08ec2bb1e83853a9c4125df2a8 9043bcbed7d7e85ea3ba3b0365c8305990dbcdeb Elzar <elzar@ymail.com> 1759766899 +0800	commit: feat(auth): add Firebase auth wiring, listener, login/register pages and UI components
+9043bcbed7d7e85ea3ba3b0365c8305990dbcdeb 76a69878254989dac1e9e23852d3d8191bb7b92f Elzar <elzar@ymail.com> 1759766979 +0800	pull --rebase origin master (start): checkout 76a69878254989dac1e9e23852d3d8191bb7b92f
+76a69878254989dac1e9e23852d3d8191bb7b92f 1e293f87e5464c75a0704109493fc4eab037f41d Elzar <elzar@ymail.com> 1759766979 +0800	pull --rebase origin master (pick): Initial commit from Create Next App
+1e293f87e5464c75a0704109493fc4eab037f41d 6a3ae1439a963b91216e0fbff02381e430b0860a Elzar <elzar@ymail.com> 1759766979 +0800	pull --rebase origin master (pick): feat(auth): add Firebase auth wiring, listener, login/register pages and UI components
+6a3ae1439a963b91216e0fbff02381e430b0860a 6a3ae1439a963b91216e0fbff02381e430b0860a Elzar <elzar@ymail.com> 1759766979 +0800	pull --rebase origin master (finish): returning to refs/heads/master
